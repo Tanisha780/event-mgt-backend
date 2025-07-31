@@ -24,3 +24,10 @@ A REST API for managing events, users, and registrations using Node.js, Express,
 - DELETE `/events/:id/cancel` - Cancel registration
 - GET `/events/upcoming/list` - List upcoming events
 - GET `/events/:id/stats` - Get event statistics
+  ## make .env file like this
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_PORT=
+DB_DATABASE=
+
